@@ -1,6 +1,29 @@
 item {
-  name: "face"
   id: 1
-  display_name: "face"
+  name: 'insan'
 }
 
+item {
+  id: 2
+  name: 'insan'
+}
+
+item {
+  id: 3
+  name: 'tasit'
+}
+
+item {
+  id: 4
+  name: 'insan'
+}
+
+item {
+  id: 5
+  name: 'tasit'
+}
+
+item {
+  id: 6
+  name: 'tasit'
+}
